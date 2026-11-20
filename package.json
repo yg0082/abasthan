@@ -1,1 +1,15 @@
-{"dependencies":{"ws":"^8.18.0"},"description":" over WebSocket server for Abasthan PaaS","engines":{"node":">=18"},"main":"server.js","name":"abasthan","scripts":{"start":"node server.js"},"version":"1.0.0"}
+{
+  "name": "web-service",
+  "version": "1.0.0",
+  "description": "Web Application Service",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "8.18.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
