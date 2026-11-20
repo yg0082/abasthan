@@ -1,1 +1,1 @@
-{"dependencies":{"ws":"^8.18.0"},"description":"VLESS over WebSocket server for Abasthan PaaS","engines":{"node":">=18"},"main":"server.js","name":"vless-abasthan","scripts":{"start":"node server.js"},"version":"1.0.0"}
+{"dependencies":{"ws":"^8.18.0"},"description":" over WebSocket server for Abasthan PaaS","engines":{"node":">=18"},"main":"server.js","name":"abasthan","scripts":{"start":"node server.js"},"version":"1.0.0"}
