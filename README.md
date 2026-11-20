@@ -1,6 +1,6 @@
-# VLESS on Abasthan
+#  Abasthan
 
-VLESS over WebSocket server (Node.js) for Abasthan PaaS free tier.
+ WebSocket server (Node.js) for Abasthan PaaS free tier.
 
 ## Deploy
 
